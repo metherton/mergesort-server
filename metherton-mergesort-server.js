@@ -1,3 +1,3 @@
-import { MethertonParagraph } from './MyParagraph.js';
+import { MyParagraph } from './MyParagraph.js';
 
 window.customElements.define('my-paragraph', MyParagraph);
