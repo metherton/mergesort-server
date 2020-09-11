@@ -1,6 +1,6 @@
 {
   "name": "metherton-mergesort-server",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "algorithms - server side",
   "main": "index.js",
   "scripts": {

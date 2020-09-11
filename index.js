@@ -1,4 +1,4 @@
-export { MethertonParagraph } from './MethertonParagraph.js';
+export { MyParagraph } from './MyParagraph.js';
 
 //class MyParagraph extends HTMLElement {
 //    constructor() {
